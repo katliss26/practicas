@@ -1,0 +1,13 @@
+.content {
+    width: 94%;
+    margin: 20px auto;
+    padding: 20px;
+    min-height: 20%;
+    background-color: #FFF;
+    opacity: 0.8;
+}
+span.element{
+    padding: 0 10px;
+    font-weight: bolder;
+}
+

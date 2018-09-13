@@ -1,0 +1,33 @@
+.Header {
+    background-color: #222;
+    height: 100px;
+    padding: 20px;
+    color: white;
+}
+.Logo h1 {
+    margin: 0;
+    padding: 20px 0;
+    display: inline-block;
+    position: absolute;
+}
+.Logo .Logo-Img {
+    display: inline-block;
+}
+.Logo img {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+}
+@keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+.menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    padding-right: 10px;
+}
